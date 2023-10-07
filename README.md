@@ -11,7 +11,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://t.me/deftsou1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="telegram logo"  />
   </a>
@@ -31,7 +31,7 @@
 
 ###
 
-<img align="right" height="190" src="https://media.tenor.com/EgRMtLaSvyMAAAAd/owl-cute.gif"  />
+<img align="right" height="160" src="https://media.tenor.com/EgRMtLaSvyMAAAAd/owl-cute.gif"  />
 
 ###
 
@@ -65,8 +65,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/XDeciX/XDeciX/output/snake.svg" alt="Snake animation" />
+<img align="left" src="https://profile-counter.glitch.me/XDeciX/count.svg?"  />
 
 ###
